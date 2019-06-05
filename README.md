@@ -17,6 +17,6 @@
   
   第二步：Add the dependency
   dependencies {
-	        implementation 'com.github.jiusetian:MyJpackLib:Tag'
+	        implementation 'com.github.jiusetian:MyJpackLib:{visionCode}'
 	}
   
