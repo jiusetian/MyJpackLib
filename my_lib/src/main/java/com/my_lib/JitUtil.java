@@ -5,9 +5,9 @@ package com.my_lib;
  * Date：2019/6/5
  * Note：
  */
-public class Util {
+public class JitUtil {
 
     public static String getStr(){
-        return "测试的";
+        return "测试jitpack";
     }
 }
